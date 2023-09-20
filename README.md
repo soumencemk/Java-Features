@@ -169,3 +169,29 @@
 * Virtual threads preview
 * pattern matching for switch 3rd preview
 * Vector API 4th incubation
+#### JDK 20
+-------------
+* Scoped Values
+* Record Patterns
+* Pattern Matching for Switch
+* Foreign Function and Memory API
+* Virtual Threads
+* Structured Concurrency
+* Vector API
+#### JDK 21
+* String Templates (Preview)
+* Sequenced Collections
+* Generational ZGC
+* Record Patterns 
+* Pattern Matching for switch
+* Foreign Function & Memory API (Third Preview) 
+* Unnamed Patterns and Variables (Preview) 
+* Virtual Threads 
+* Unnamed Classes and Instance Main Methods (Preview) 
+* Scoped Values (Preview)
+* Vector API (Sixth Incubator)
+* Deprecate the Windows 32-bit x86 Port for Removal
+* Prepare to Disallow the Dynamic Loading of Agents
+* Key Encapsulation Mechanism API
+* Structured Concurrency (Preview)
+  
