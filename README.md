@@ -179,6 +179,7 @@
 * Structured Concurrency
 * Vector API
 #### JDK 21
+-------------
 * String Templates (Preview)
 * Sequenced Collections
 * Generational ZGC
